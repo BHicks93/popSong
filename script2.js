@@ -7,7 +7,7 @@
 
 
 function getMusicData (maxYear, minYear) {
-var popTrackURL = "http://musicovery.com/api/playlist.php?" 
+var popTrackURL = "http://musicovery.com/api/V4/playlist.php?" 
 		 + "fct=" + "tagseed" 
 		 + "&apikey=" + "ik8t34al"
 		 + "&tag=" + "pop"
