@@ -9,7 +9,7 @@
 function getMusicData (maxYear, minYear) {
 var popTrackURL = "http://musicovery.com/api/V4/playlist.php?" 
 		 + "fct=" + "tagseed" 
-		 + "&apikey=" + "ik8t34al"
+		 + "&apikey=" + "lz9n4fi1"
 		 + "&tag=" + "pop"
 		 + "&popularitymax=100&popularitymin=75&listenercountry=us&tracksnumber=1"
 		 + "&yearmax=" + maxYear
